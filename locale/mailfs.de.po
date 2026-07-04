@@ -1,0 +1,553 @@
+# MailFS - German translation
+# Encoding: UTF-8
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ui_strings.rslbllanguage
+msgid "Language:"
+msgstr "Sprache:"
+
+#: ui_strings.rslangauto
+msgid "Auto (system language)"
+msgstr "Automatisch (Systemsprache)"
+
+#: ui_strings.rslanggerman
+msgid "German"
+msgstr "Deutsch"
+
+#: ui_strings.rslangenglish
+msgid "English"
+msgstr "Englisch"
+
+#: ui_strings.rslangrussian
+msgid "Russian"
+msgstr "Russisch"
+
+#: ui_strings.rslangukrainian
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+#: ui_strings.rsaccountsdlgtitle
+msgid "Accounts"
+msgstr "Konten"
+
+#: ui_strings.rsbtnnew
+msgid "New..."
+msgstr "Neu..."
+
+#: ui_strings.rsbtnedit
+msgid "Edit..."
+msgstr "Bearbeiten..."
+
+#: ui_strings.rsbtndelete
+msgid "Delete"
+msgstr "Löschen"
+
+#: ui_strings.rsbtntest
+msgid "Test"
+msgstr "Testen"
+
+#: ui_strings.rsbtnmoveup
+msgid "Move up"
+msgstr "Nach oben"
+
+#: ui_strings.rsbtnmovedown
+msgid "Move down"
+msgstr "Nach unten"
+
+#: ui_strings.rsgrpdetails
+msgid "Details"
+msgstr "Details"
+
+#: ui_strings.rsbtnok
+msgid "OK"
+msgstr "OK"
+
+#: ui_strings.rsbtnapply
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: ui_strings.rsbtncancel
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ui_strings.rsbtnopenini
+msgid "Open INI..."
+msgstr "INI öffnen..."
+
+#: ui_strings.rsbtnhelp
+msgid "Help"
+msgstr "Hilfe"
+
+#: ui_strings.rsdlgtitlemailfs
+msgid "MailFS"
+msgstr "MailFS"
+
+#: ui_strings.rsdlgtitletestok
+msgid "Test OK"
+msgstr "Test OK"
+
+#: ui_strings.rsdlgtitleerror
+msgid "Error"
+msgstr "Fehler"
+
+#: ui_strings.rsdlgtitlehelp
+msgid "Help"
+msgstr "Hilfe"
+
+#: ui_strings.rsdlgdeleteconfirmfmt
+msgid "Delete account \"%s\"?"
+msgstr "Konto \"%s\" löschen?"
+
+#: ui_strings.rspluginnotinit
+msgid "Plugin not initialised."
+msgstr "Plugin nicht initialisiert."
+
+#: ui_strings.rsexceptionfmt
+msgid "Exception: %s: %s"
+msgstr "Ausnahme: %s: %s"
+
+#: ui_strings.rshelptext
+msgid "MailFS v1.0 - IMAP/POP3 as virtual folders.\nPasswords are stored in the Windows Credential Manager."
+msgstr "MailFS v1.0 - IMAP/POP3 als virtuelle Ordner.\nPasswörter im Windows Credential Manager."
+
+#: ui_strings.rsstatusok
+msgid "OK"
+msgstr "OK"
+
+#: ui_strings.rsstatuserrorfmt
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+#: ui_strings.rsstatusneedoauth
+msgid "OAuth required"
+msgstr "OAuth nötig"
+
+#: ui_strings.rsstatusdisabled
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: ui_strings.rsstatusunknown
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: ui_strings.rsenctls
+msgid "TLS"
+msgstr "TLS"
+
+#: ui_strings.rsencstarttls
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: ui_strings.rsencauto
+msgid "Auto"
+msgstr "Auto"
+
+#: ui_strings.rsauthoauth2
+msgid "OAuth2"
+msgstr "OAuth2"
+
+#: ui_strings.rsauthpassword
+msgid "Password"
+msgstr "Passwort"
+
+#: ui_strings.rsinactiveprefix
+msgid "[Inactive] "
+msgstr "[Inaktiv] "
+
+#: ui_strings.rsproviderauto
+msgid "Auto-detect"
+msgstr "Automatisch erkennen"
+
+#: ui_strings.rsprovidercustom
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+#: ui_strings.rseditdlgtitle
+msgid "Edit Account"
+msgstr "Konto bearbeiten"
+
+#: ui_strings.rsnewdlgtitle
+msgid "New Account"
+msgstr "Konto anlegen"
+
+#: ui_strings.rsgrpgeneral
+msgid "General"
+msgstr "Allgemein"
+
+#: ui_strings.rsgrpimap
+msgid "IMAP"
+msgstr "IMAP"
+
+#: ui_strings.rsgrppop3
+msgid "POP3"
+msgstr "POP3"
+
+#: ui_strings.rsgrpaccess
+msgid "Access"
+msgstr "Zugang"
+
+#: ui_strings.rslbldisplayname
+msgid "Display name:"
+msgstr "Anzeigename:"
+
+#: ui_strings.rslblprovider
+msgid "Provider:"
+msgstr "Anbieter:"
+
+#: ui_strings.rslblemail
+msgid "E-mail:"
+msgstr "E-Mail:"
+
+#: ui_strings.rschkactive
+msgid "Active"
+msgstr "Aktiv"
+
+#: ui_strings.rslblprotocol
+msgid "Protocol:"
+msgstr "Protokoll:"
+
+#: ui_strings.rslblserver
+msgid "Server:"
+msgstr "Server:"
+
+#: ui_strings.rslblport
+msgid "Port:"
+msgstr "Port:"
+
+#: ui_strings.rslblencryption
+msgid "Encryption:"
+msgstr "Verschl.:"
+
+#: ui_strings.rslblauth
+msgid "Auth:"
+msgstr "Auth:"
+
+#: ui_strings.rslblusername
+msgid "Username:"
+msgstr "Benutzer:"
+
+#: ui_strings.rslblclientid
+msgid "Client ID:"
+msgstr "Client-ID:"
+
+#: ui_strings.rslblclientsecret
+msgid "Client secret:"
+msgstr "Client-Secret:"
+
+#: ui_strings.rsbtnpassword
+msgid "Password..."
+msgstr "Passwort..."
+
+#: ui_strings.rsbtnoauthbrowser
+msgid "OAuth Browser..."
+msgstr "OAuth Browser..."
+
+#: ui_strings.rsbtntestconnection
+msgid "Test connection"
+msgstr "Verbindung testen"
+
+#: ui_strings.rsbtnautoconfig
+msgid "Auto-configure"
+msgstr "Auto-Konfig."
+
+#: ui_strings.rsprotoimaprecommended
+msgid "IMAP (recommended)"
+msgstr "IMAP (empfohlen)"
+
+#: ui_strings.rsprotopop3
+msgid "POP3"
+msgstr "POP3"
+
+#: ui_strings.rsoauthnotinit
+msgid "OAuth2 has not been initialised yet."
+msgstr "OAuth2 ist noch nicht initialisiert."
+
+#: ui_strings.rsdlgtitleoauth2
+msgid "MailFS — OAuth2"
+msgstr "MailFS — OAuth2"
+
+#: ui_strings.rsautoconfigdone
+msgid "Server auto-configured."
+msgstr "Server automatisch konfiguriert."
+
+#: ui_strings.rspleasesavepasswordfirst
+msgid "Please save the password first (Password... button)."
+msgstr "Bitte zuerst das Passwort speichern (Passwort... Button)."
+
+#: ui_strings.rsconnloginokfmt
+msgid "Connection and login OK.\nServer: %s"
+msgstr "Verbindung und Login OK.\nServer: %s"
+
+#: ui_strings.rsdlgtitletesterror
+msgid "Test error"
+msgstr "Test Fehler"
+
+#: ui_strings.rserrorfmt
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+#: ui_strings.rspleaseenteremail
+msgid "Please enter an e-mail address."
+msgstr "Bitte E-Mail eingeben."
+
+#: ui_strings.rspwddlgtitle
+msgid "Password"
+msgstr "Passwort"
+
+#: ui_strings.rspwdlabelfmt
+msgid "Password for %s:"
+msgstr "Passwort für %s:"
+
+#: ui_strings.rspleaseenterpassword
+msgid "Please enter a password."
+msgstr "Bitte Passwort eingeben."
+
+#: ui_strings.rspasswordsaved
+msgid "Password saved."
+msgstr "Passwort gespeichert."
+
+#: ui_strings.rspasswordsavefailedfmt
+msgid "Failed to save the password.\nSystem error %d"
+msgstr "Fehler beim Speichern des Passworts.\nSystemfehler %d"
+
+#: ui_strings.rspropinfoheader
+msgid "MailFS - IMAP/POP3 Plugin"
+msgstr "MailFS - IMAP/POP3 Plugin"
+
+#: ui_strings.rspropinfoseparator
+msgid "----------------------------------"
+msgstr "----------------------------------"
+
+#: ui_strings.rspropinfoaccountsfmt
+msgid "Accounts configured: %d"
+msgstr "Konten konfiguriert: %d"
+
+#: ui_strings.rspropinfoinifmt
+msgid "INI file: %s"
+msgstr "INI-Datei: %s"
+
+#: ui_strings.rsoauthhelptitle
+msgid "OAuth2 - Set up Client ID"
+msgstr "OAuth2 - Client-ID einrichten"
+
+#: ui_strings.rsoauthhelptextfmt
+msgid "A Client ID is an identifier you receive\nwhen you register your app with the e-mail provider.\n\nHow to get a Client ID:\n1. Register a \"Desktop app\" with the provider.\n2. Copy the Client ID into the \"Client ID\" field\n   in the MailFS account settings.\n\nRegistration page:\n%s\n\nOpen this page in the browser now?"
+msgstr "Eine Client-ID ist ein Bezeichner, den Sie erhalten,\nwenn Sie Ihre App beim E-Mail-Anbieter registrieren.\n\nSo erhalten Sie eine Client-ID:\n1. Registrieren Sie eine \"Desktop-App\" beim Anbieter.\n2. Kopieren Sie die Client-ID in das Feld \"Client-ID\"\n   in den Konto-Einstellungen von MailFS.\n\nRegistrierungsseite:\n%s\n\nSoll die Seite jetzt im Browser geöffnet werden?"
+
+#: ui_strings.rsclientidmissingtitle
+msgid "OAuth2 — Client ID missing"
+msgstr "OAuth2 — Client-ID fehlt"
+
+#: ui_strings.rsclientidmissingtext
+msgid "Please enter the Client ID first.\nRegister an app with Google/Microsoft/Yahoo\nand enter the Client ID in the account settings."
+msgstr "Bitte zuerst die Client-ID eintragen.\nRegistrieren Sie eine App bei Google/Microsoft/Yahoo\nund tragen Sie die Client-ID in den Konto-Einstellungen ein."
+
+#: ui_strings.rsoauthsuccess
+msgid "OAuth2 authentication successful!"
+msgstr "OAuth2-Authentifizierung erfolgreich!"
+
+#: ui_strings.rsoauthnoclientid
+msgid "No Client ID configured. Please enter the Client ID in account settings."
+msgstr "Keine Client-ID konfiguriert. Bitte Client-ID in den Konto-Einstellungen eintragen."
+
+#: ui_strings.rsoauthprovidernotsupported
+msgid "OAuth2 is not supported for this provider."
+msgstr "OAuth2 ist für diesen Provider nicht unterstützt."
+
+#: ui_strings.rsoauthnolistener
+msgid "Could not start local HTTP listener."
+msgstr "Konnte keinen lokalen HTTP-Listener starten."
+
+#: ui_strings.rsoauthauthtitle
+msgid "MailFS — OAuth2 Authentication"
+msgstr "MailFS — OAuth2 Authentifizierung"
+
+#: ui_strings.rsoauthbrowseropenedtext
+msgid "The browser has been opened for OAuth2 authentication.\nPlease sign in and confirm the permissions.\n\nWaiting for response (max. 3 minutes)..."
+msgstr "Der Browser wurde für die OAuth2-Authentifizierung geöffnet.\nBitte melden Sie sich an und bestätigen Sie die Berechtigungen.\n\nWarten auf Antwort (max. 3 Minuten)..."
+
+#: ui_strings.rsoautherrorfmt
+msgid "OAuth2 error: %s"
+msgstr "OAuth2 Fehler: %s"
+
+#: ui_strings.rsoauthtimeout
+msgid "Timeout: no response received from the browser."
+msgstr "Timeout: Keine Antwort vom Browser erhalten."
+
+#: ui_strings.rsoauthtokenexchangefailed
+msgid "HTTP POST to token endpoint failed"
+msgstr "HTTP-POST an Token-Endpunkt fehlgeschlagen"
+
+#: ui_strings.rsoauthtokenrefreshfailed
+msgid "Token refresh HTTP POST failed"
+msgstr "Token-Refresh HTTP-POST fehlgeschlagen"
+
+#: ui_strings.rsoauthnoaccesstoken
+msgid "No access_token in response"
+msgstr "Kein access_token in Antwort"
+
+#: ui_strings.rsoauthnoaccesstokenfmt
+msgid "No access_token in response: %s"
+msgstr "Kein access_token in Antwort: %s"
+
+#: ui_strings.rsoauthhtmlsuccesstitle
+msgid "Authentication successful!"
+msgstr "Authentifizierung erfolgreich!"
+
+#: ui_strings.rsoauthhtmlsuccessbody
+msgid "You can close this window and return to MailFS."
+msgstr "Sie können dieses Fenster schließen und zu MailFS zurückkehren."
+
+#: ui_strings.rsoauthhtmlfailtitle
+msgid "Authentication failed"
+msgstr "Authentifizierung fehlgeschlagen"
+
+#: ui_strings.rsoauthhtmlfailbody
+msgid "You can close this window."
+msgstr "Sie können dieses Fenster schließen."
+
+#: ui_strings.rserrauthfailedfmt
+msgid "Authentication failed: %s\nCheck or reset the password in settings."
+msgstr "Authentifizierung fehlgeschlagen: %s\nPasswort in Einstellungen prüfen oder zurücksetzen."
+
+#: ui_strings.rserrnopasswordconfigured
+msgid "No password. Please configure it in settings."
+msgstr "Kein Passwort. Bitte in Einstellungen konfigurieren."
+
+#: ui_strings.rserrpop3nopassword
+msgid "POP3 password not configured."
+msgstr "POP3 Passwort nicht konfiguriert."
+
+#: ui_strings.rserrpop3oauthnotimpl
+msgid "POP3 OAuth2 is not implemented yet."
+msgstr "POP3 OAuth2 noch nicht implementiert."
+
+#: ui_strings.rserroauthrefreshfailedfmt
+msgid "OAuth2 refresh failed: %s"
+msgstr "OAuth2-Refresh fehlgeschlagen: %s"
+
+#: ui_strings.rserroauthtokenunavailable
+msgid "OAuth2 token not available. Please re-authenticate."
+msgstr "OAuth2-Token nicht verfügbar. Bitte erneut authentifizieren."
+
+#: ui_strings.rspasswordpromptfmt
+msgid "Password for %s:"
+msgstr "Passwort für %s:"
+
+#: ui_strings.rsconnsuccessful
+msgid "Connection successful."
+msgstr "Verbindung erfolgreich."
+
+#: ui_strings.rssettingspseudofile
+msgid "[Settings]"
+msgstr "[Einstellungen]"
+
+#: ui_strings.rsconnerrorentryfmt
+msgid "[Connection error: %s]"
+msgstr "[Verbindungsfehler: %s]"
+
+#: ui_strings.rscolfrom
+msgid "From"
+msgstr "Von"
+
+#: ui_strings.rscolto
+msgid "To"
+msgstr "An"
+
+#: ui_strings.rscolsender
+msgid "Sender"
+msgstr "Absender"
+
+#: ui_strings.rscolsubject
+msgid "Subject"
+msgstr "Betreff"
+
+#: ui_strings.rscolreceived
+msgid "Received"
+msgstr "Empfangen"
+
+#: ui_strings.rscolsent
+msgid "Sent"
+msgstr "Gesendet"
+
+#: ui_strings.rscolsize
+msgid "Size"
+msgstr "Größe"
+
+#: ui_strings.rscolattachment
+msgid "Attachment"
+msgstr "Anhang"
+
+#: ui_strings.rscolmailer
+msgid "Mailer"
+msgstr "Mailer"
+
+#: ui_strings.rscolpriority
+msgid "Priority"
+msgstr "Priorität"
+
+#: ui_strings.rscolreplyto
+msgid "Reply-To"
+msgstr "Antwort an"
+
+#: ui_strings.rserrdnslookupfailedfmt
+msgid "DNS lookup failed for %s:%d"
+msgstr "DNS-Auflösung fehlgeschlagen für %s:%d"
+
+#: ui_strings.rserrcannotconnectfmt
+msgid "Cannot connect to %s:%d"
+msgstr "Verbindung zu %s:%d nicht möglich"
+
+#: ui_strings.rserropensslmissingfmt
+msgid "OpenSSL: missing symbol \"%s\""
+msgstr "OpenSSL: Symbol \"%s\" fehlt"
+
+#: ui_strings.rserropensslnotavailfmt
+msgid "OpenSSL not available: %s"
+msgstr "OpenSSL nicht verfügbar: %s"
+
+#: ui_strings.rserrtlshandshakefmt
+msgid "TLS handshake failed: %s"
+msgstr "TLS-Handshake fehlgeschlagen: %s"
+
+#: ui_strings.rserrcertverifyfailedfmt
+msgid "Certificate verification failed (code %d)"
+msgstr "Zertifikatsprüfung fehlgeschlagen (Code %d)"
+
+#: ui_strings.rserrsslwritefmt
+msgid "SSL write error: ssl_error=%d"
+msgstr "SSL-Schreibfehler: ssl_error=%d"
+
+#: ui_strings.rserrimapgreetingfmt
+msgid "Unexpected greeting: %s"
+msgstr "Unerwartete Begrüßung: %s"
+
+#: ui_strings.rserrimaploginfailedfmt
+msgid "LOGIN failed: %s"
+msgstr "LOGIN fehlgeschlagen: %s"
+
+#: ui_strings.rserrimapauthplainfmt
+msgid "AUTHENTICATE PLAIN failed: %s"
+msgstr "AUTHENTICATE PLAIN fehlgeschlagen: %s"
+
+#: ui_strings.rserrimapoauthfailedfmt
+msgid "OAuth2 authentication failed: %s"
+msgstr "OAuth2-Authentifizierung fehlgeschlagen: %s"
+
+#: ui_strings.rserrimapselectfmt
+msgid "Cannot SELECT folder %s"
+msgstr "Ordner %s kann nicht ausgewählt werden (SELECT)"
+
+#: ui_strings.rserrpop3genericfmt
+msgid "POP3 error: %s"
+msgstr "POP3-Fehler: %s"
+
+#: ui_strings.rserrpop3delefailedfmt
+msgid "DELE failed: %s"
+msgstr "DELE fehlgeschlagen: %s"
