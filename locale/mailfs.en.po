@@ -260,6 +260,30 @@ msgstr "Test connection"
 msgid "Auto-configure"
 msgstr "Auto-configure"
 
+#: ui_strings.rsbtneditfolders
+msgid "Edit folders..."
+msgstr "Edit folders..."
+
+#: ui_strings.rseditfoldersdlgtitle
+msgid "Edit Folders"
+msgstr "Edit Folders"
+
+#: ui_strings.rseditfoldershint
+msgid "Select which folders are shown (click to toggle):"
+msgstr "Select which folders are shown (click to toggle):"
+
+#: ui_strings.rsbtnselectall
+msgid "Select All"
+msgstr "Select All"
+
+#: ui_strings.rsbtnselectnone
+msgid "Select None"
+msgstr "Select None"
+
+#: ui_strings.rsnofoldersfound
+msgid "No folders found."
+msgstr "No folders found."
+
 #: ui_strings.rsprotoimaprecommended
 msgid "IMAP (recommended)"
 msgstr "IMAP (recommended)"
@@ -499,6 +523,18 @@ msgstr "Priority"
 #: ui_strings.rscolreplyto
 msgid "Reply-To"
 msgstr "Reply-To"
+
+#: ui_strings.rsmailstatusnew
+msgid "new"
+msgstr "new"
+
+#: ui_strings.rsmailstatusold
+msgid "old"
+msgstr "old"
+
+#: ui_strings.rsvalueunknown
+msgid "---"
+msgstr "---"
 
 #: ui_strings.rserrdnslookupfailedfmt
 msgid "DNS lookup failed for %s:%d"

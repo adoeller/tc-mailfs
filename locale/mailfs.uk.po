@@ -256,6 +256,30 @@ msgstr "Перевірити з'єднання"
 msgid "Auto-configure"
 msgstr "Автоналаштування"
 
+#: ui_strings.rsbtneditfolders
+msgid "Edit folders..."
+msgstr "Редагувати теки..."
+
+#: ui_strings.rseditfoldersdlgtitle
+msgid "Edit Folders"
+msgstr "Редагувати теки"
+
+#: ui_strings.rseditfoldershint
+msgid "Select which folders are shown (click to toggle):"
+msgstr "Виберіть, які теки відображати (клацніть для перемикання):"
+
+#: ui_strings.rsbtnselectall
+msgid "Select All"
+msgstr "Вибрати всі"
+
+#: ui_strings.rsbtnselectnone
+msgid "Select None"
+msgstr "Зняти вибір"
+
+#: ui_strings.rsnofoldersfound
+msgid "No folders found."
+msgstr "Теки не знайдено."
+
 #: ui_strings.rsprotoimaprecommended
 msgid "IMAP (recommended)"
 msgstr "IMAP (рекомендовано)"
@@ -495,6 +519,18 @@ msgstr "Пріоритет"
 #: ui_strings.rscolreplyto
 msgid "Reply-To"
 msgstr "Відповісти на"
+
+#: ui_strings.rsmailstatusnew
+msgid "new"
+msgstr "нове"
+
+#: ui_strings.rsmailstatusold
+msgid "old"
+msgstr "старе"
+
+#: ui_strings.rsvalueunknown
+msgid "---"
+msgstr "---"
 
 #: ui_strings.rserrdnslookupfailedfmt
 msgid "DNS lookup failed for %s:%d"

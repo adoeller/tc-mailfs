@@ -256,6 +256,30 @@ msgstr "Проверить соединение"
 msgid "Auto-configure"
 msgstr "Автонастройка"
 
+#: ui_strings.rsbtneditfolders
+msgid "Edit folders..."
+msgstr "Изменить папки..."
+
+#: ui_strings.rseditfoldersdlgtitle
+msgid "Edit Folders"
+msgstr "Изменить папки"
+
+#: ui_strings.rseditfoldershint
+msgid "Select which folders are shown (click to toggle):"
+msgstr "Выберите, какие папки отображать (щёлкните для переключения):"
+
+#: ui_strings.rsbtnselectall
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: ui_strings.rsbtnselectnone
+msgid "Select None"
+msgstr "Снять выбор"
+
+#: ui_strings.rsnofoldersfound
+msgid "No folders found."
+msgstr "Папки не найдены."
+
 #: ui_strings.rsprotoimaprecommended
 msgid "IMAP (recommended)"
 msgstr "IMAP (рекомендуется)"
@@ -495,6 +519,18 @@ msgstr "Приоритет"
 #: ui_strings.rscolreplyto
 msgid "Reply-To"
 msgstr "Ответить на"
+
+#: ui_strings.rsmailstatusnew
+msgid "new"
+msgstr "новое"
+
+#: ui_strings.rsmailstatusold
+msgid "old"
+msgstr "старое"
+
+#: ui_strings.rsvalueunknown
+msgid "---"
+msgstr "---"
 
 #: ui_strings.rserrdnslookupfailedfmt
 msgid "DNS lookup failed for %s:%d"
