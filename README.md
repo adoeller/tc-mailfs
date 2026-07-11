@@ -1,8 +1,8 @@
 # MailFS – Quick Reference
 
-![Demo1](jmailfs_1.png)
-![Demo2](jmailfs_2.png)
-![Demo3](jmailfs_3.png)
+![Demo1](mailfs_1.png)
+![Demo2](mailfs_2.png)
+![Demo3](mailfs_3.png)
 
 ## Features
 - IMAP/POP3 accounts shown as folders in Total Commander; messages as `.eml` files
