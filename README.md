@@ -1,12 +1,10 @@
-# Total Commander MailFS
+# MailFS – Quick Reference
 
 IMAP & POP3 & SMTP
 
 ![Demo](mailfs_1.png)
 ![Demo](mailfs_2.png)
 ![Demo](mailfs_3.png)
-
-# MailFS – Quick Reference
 
 ## Features
 - IMAP/POP3 accounts shown as folders in Total Commander; messages as `.eml` files
@@ -58,3 +56,4 @@ Set up via **View → Configure custom columns → Add plugin columns → mailfs
 - **Address book:** "AB" button next to To/Cc/Bcc in the compose window
 - **Reply via F7:** F7 on a message list, type the message's filename
   (without `.eml`) as the new folder name
+
